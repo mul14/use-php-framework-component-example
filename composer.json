@@ -1,0 +1,12 @@
+{
+    "name": "mul14/cakephp-util",
+    "authors": [
+        {
+            "name": "Mulia Arifandi Nasution",
+            "email": "mul14.net@gmail.com"
+        }
+    ],
+    "require": {
+        "cakephp/utility": "3.0.*"
+    }
+}
